@@ -3,9 +3,20 @@ You can use the [editor on GitHub](https://github.com/arthurutnehmer/cs113-Help/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Audeo Charter School, Carlsbad, CA — HS diploma
+September 2014- Present (expected graduation date: May 2016)
+AP student
+4.0 GpA
+
+El Camino High School, Oceanside, CA — HS diploma 
+September 2011 - June 2013
+
+Mira Costa college, Oceanside, CA — Transfer in progress 
+September 2016 - present
+Major: Computer Science
+
 
 ```markdown
 Syntax highlighted code block
