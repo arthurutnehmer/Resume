@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## Education
 
 ### Audeo Charter School, Carlsbad, CA — HS diploma
-*September 2014- 2016*
+_September 2014- 2016_
 * AP student
 * 4.0 GpA
 
