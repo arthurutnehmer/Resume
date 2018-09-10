@@ -1,19 +1,19 @@
-## Welcome to Arthur Utnehmer's Resume
+# Welcome to Arthur Utnehmer's Resume
 You can use the [editor on GitHub](https://github.com/arthurutnehmer/cs113-Help/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Education
+## Education
 
-# Audeo Charter School, Carlsbad, CA — HS diploma
+### Audeo Charter School, Carlsbad, CA — HS diploma
 September 2014- 2016
 AP student
 4.0 GpA
 
-# El Camino High School, Oceanside, CA — HS diploma 
+### El Camino High School, Oceanside, CA — HS diploma 
 September 2011 - June 2013
 
-# Mira Costa college, Oceanside, CA — Transfer in progress 
+### Mira Costa college, Oceanside, CA — Transfer in progress 
 September 2016 - present
 Major: Computer Science
 
