@@ -23,6 +23,11 @@ _September 2014- 2016_
 * Developed with Xcode and android studio.
 * Excellent written communication.  
 
+## PROJECTS
+*Globe Computers — Electronics repair company *
+* Repair and refurbish computers and software development.
+
+
 ## CERTIFICATES 
 * Audeo Charter School, Carlsbad, CA — Certificate of Workplace Readiness
 * Audeo Charter School, Carlsbad, CA — Certificate of computer literacy
