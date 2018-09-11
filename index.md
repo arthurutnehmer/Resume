@@ -24,7 +24,7 @@ _September 2014- 2016_
 * Excellent written communication.  
 
 ## PROJECTS
-*Globe Computers — Electronics repair company*
+### Globe Computers — Electronics repair company
 * Repair and refurbish computers and software development.
 
 
