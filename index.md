@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Audeo Charter School, Carlsbad, CA — HS diploma
 _September 2014- 2016_
 * AP student
-* 4.0 GpA
+* 4.0 GPA
 
 ### El Camino High School, Oceanside, CA — HS diploma 
 *September 2011 - June 2013*
