@@ -18,10 +18,10 @@ _September 2014- 2016_
 * Major: Computer Science
 
 ## Skills
-*OOP with java
-*Experience with server frameworks (NginX,PHP,ETC).
-*Developed with Xcode and android studio.
-*Excellent written communication.  
+* OOP with java
+* Experience with server frameworks (NginX,PHP,ETC).
+* Developed with Xcode and android studio.
+* Excellent written communication.  
 
 
 ```markdown
