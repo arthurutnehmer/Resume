@@ -34,4 +34,10 @@ _September 2014- 2016_
 ## Certificates:
 * Audeo Charter School, Carlsbad, CA — Certificate of Workplace Readiness
 * Audeo Charter School, Carlsbad, CA — Certificate of computer literacy
+
+## EXPERIENCE
+Oceanside Public Library, Oceanside, CA — Volunteer
+*September 2015 - PRESENT*
+*Assist citizens by providing technical aid, inspect books for significant damage, and deliver books to assigned locations.
+
  
