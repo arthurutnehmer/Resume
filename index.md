@@ -23,3 +23,7 @@ _September 2014- 2016_
 * Developed with Xcode and android studio.
 * Excellent written communication.  
 
+## CERTIFICATES 
+Audeo Charter School, Carlsbad, CA — Certificate of Workplace Readiness
+Audeo Charter School, Carlsbad, CA — Certificate of computer literacy
+ 
