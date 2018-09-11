@@ -24,8 +24,10 @@ _September 2014- 2016_
 * Excellent written communication.  
 
 ## PROJECTS
-### Globe Computers — Electronics repair company
+### Globe Computers — Electronics repair company and software development.
 * Repair and refurbish computers and software development.
+http://github.com - automatic!
+[GitHub](http://github.com)
 
 
 ## CERTIFICATES 
