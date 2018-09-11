@@ -25,7 +25,7 @@ _September 2014- 2016_
 
 ## PROJECTS
 ### Globe Computers — Electronics repair company and software development.
-* Repair and refurbish computers and software development.
+* Refurbish computers and software development.
 * [My Website](http://globecomputers.ml/)
 
 
