@@ -37,7 +37,7 @@ _September 2014- 2016_
 
 ## EXPERIENCE
 Oceanside Public Library, Oceanside, CA — Volunteer
-*September 2015 - PRESENT*
+_September 2015 - PRESENT_
 *Assist citizens by providing technical aid, inspect books for significant damage, and deliver books to assigned locations.
 
  
