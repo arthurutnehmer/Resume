@@ -1,6 +1,6 @@
 # Welcome to Arthur Utnehmer's Resume
 ### Objective: Obtain a job within the tech industry.
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](https://media.licdn.com/dms/image/C5603AQFDDlsLgVkqJQ/profile-displayphoto-shrink_200_200/0?e=1542240000&v=beta&t=RynAYRTfHFktw_jcayMX5OvePcrtytBAE7AwsWbtgfI)
 Format: ![Alt Text](url)
 
 ## Education:
