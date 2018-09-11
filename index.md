@@ -1,4 +1,4 @@
-# Welcome to Arthur Utnehmer's Resume
+# Welcome to Arthur Utnehmer's resume
 ### Objective: Obtain a job within the tech industry.
 ![GitHub Logo](https://media.licdn.com/dms/image/C5603AQFDDlsLgVkqJQ/profile-displayphoto-shrink_200_200/0?e=1542240000&v=beta&t=RynAYRTfHFktw_jcayMX5OvePcrtytBAE7AwsWbtgfI)
 
@@ -25,13 +25,13 @@ _September 2014- 2016_
 * Familiar with Debain, Ubuntu, OSX, and widnows enviroments. 
 
 
-## PROJECTS:
+## Projects:
 ### Globe Computers — Electronics repair company and software development.
 * Refurbish computers and software development.
 * [My Website](http://globecomputers.ml/)
 
 
-## CERTIFICATES:
+## Certificates:
 * Audeo Charter School, Carlsbad, CA — Certificate of Workplace Readiness
 * Audeo Charter School, Carlsbad, CA — Certificate of computer literacy
  
