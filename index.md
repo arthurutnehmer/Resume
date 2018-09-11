@@ -20,7 +20,6 @@ _September 2014- 2016_
 ## Skills:
 * OOP with java
 * Experience with server frameworks (NginX,PHP,SQL, and Maria DB).
-* Developed with Xcode and android studio.
 * Excellent written communication.  
 * Familiar with Debain, Ubuntu, OSX, and widnows enviroments. 
 * Familiar with development boards (arduino, ESP-32, oroid XU4, and raspberry pi 3)
