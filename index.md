@@ -1,6 +1,6 @@
 # Welcome to Arthur Utnehmer's Resume
 ### Objective: Obtain a job within the tech industry.
-
+----------------------------------------------------------------
 ## Education
 
 ### Audeo Charter School, Carlsbad, CA — HS diploma
