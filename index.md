@@ -5,12 +5,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Education
 
-* ### Audeo Charter School, Carlsbad, CA — HS diploma
+### Audeo Charter School, Carlsbad, CA — HS diploma
 _September 2014- 2016_
 * AP student
 * 4.0 GpA
 
-* ### El Camino High School, Oceanside, CA — HS diploma 
+### El Camino High School, Oceanside, CA — HS diploma 
 *September 2011 - June 2013*
 
 * ### Mira Costa college, Oceanside, CA — Transfer in progress 
