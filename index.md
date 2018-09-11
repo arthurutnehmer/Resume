@@ -23,6 +23,7 @@ _September 2014- 2016_
 * Developed with Xcode and android studio.
 * Excellent written communication.  
 * Familiar with Debain, Ubuntu, OSX, and widnows enviroments. 
+* Familiar with development boards (arduino, ESP-32, oroid XU4, and raspberry pi 3)
 
 
 ## Projects:
