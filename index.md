@@ -1,6 +1,7 @@
 # Welcome to Arthur Utnehmer's Resume
 ### Objective: Obtain a job within the tech industry.
-
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
 ## Education:
 
@@ -19,9 +20,10 @@ _September 2014- 2016_
 
 ## Skills:
 * OOP with java
-* Experience with server frameworks (NginX,PHP,ETC).
+* Experience with server frameworks (NginX,PHP,SQL, and Maria DB).
 * Developed with Xcode and android studio.
 * Excellent written communication.  
+* Familiar with Debain, Ubuntu, OSX, and widnows enviroments. 
 
 
 ## PROJECTS:
