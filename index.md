@@ -33,7 +33,7 @@ _September 2014- 2016_
 
 ## Certificates:
 * Audeo Charter School, Carlsbad, CA — Certificate of Workplace Readiness
-* Audeo Charter School, Carlsbad, CA — Certificate of computer literacy
+* Audeo Charter School, Carlsbad, CA — Certificate of Computer Literacy
 
 ## EXPERIENCE
 Oceanside Public Library, Oceanside, CA — Volunteer
