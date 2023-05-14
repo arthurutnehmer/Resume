@@ -6,16 +6,15 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Arthur Utnehmer
+title: Math and Computer Science Student at U.C. Berkeley
+email: arthurutnehmer@berkeley.edu
+website: https://arthurutnehmer.github.io/Resume/
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
 github_username:  sproogen
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
