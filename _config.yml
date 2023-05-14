@@ -68,14 +68,13 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
           Developed an Enigma Machine Simulator as a programming assignment. The program mimics the operations of the historical Enigma machines used by Germany during World War II for encoding and decoding messages. It includes:
-
-          Object-based design implementing several key data structures.
-          Ability to simulate different initial configurations of the machine and messages to encode or decode, providing an understanding of encryption and decryption processes.
-          Integration of interchangeable rotors and reflectors simulating various permutations of signals.
-          Emulation of progressive substitution mechanism, making each subsequent letter of the message encrypted differently.
-          Implementation of machine's rotor rotation mechanism, thus changing the permutation after every letter encryption.
-          Utilization of the plugboard feature, allowing additional level of complexity in encoding and decoding messages.
-          Inclusion of an automated style check and unit tests to ensure code quality and functionality.
+          - Object-based design implementing several key data structures.
+          - Ability to simulate different initial configurations of the machine and messages to encode or decode, providing an understanding of encryption and decryption processes.
+          - Integration of interchangeable rotors and reflectors simulating various permutations of signals.
+          - Emulation of progressive substitution mechanism, making each subsequent letter of the message encrypted differently.
+          - Implementation of machine's rotor rotation mechanism, thus changing the permutation after every letter encryption.
+          - Utilization of the plugboard feature, allowing additional level of complexity in encoding and decoding messages.
+          - Inclusion of an automated style check and unit tests to ensure code quality and functionality.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
