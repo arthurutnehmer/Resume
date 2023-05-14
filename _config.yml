@@ -102,7 +102,7 @@ content:
       - layout: left
         title: MiraCosta College
         caption: 2017 - 2020
-        sub_title: Associate of Arts and Sciences - AAS, Physics / Computer Science
+        sub_title: Associate of Arts and Sciences - Physics / Computer Science
         description: | # this will include new lines to allow paragraphs
           Skills: Problem Solving · Pattern Recognition · Abstraction · Teamwork
 
