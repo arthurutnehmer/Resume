@@ -101,8 +101,6 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-          Computer Processor Design Project
-  
           - Developed a basic CPU architecture in Logisim, capable of executing RISC-V instructions.
           - Implemented an Arithmetic Logic Unit (ALU) for performing multiple operations, including addition, shift, comparison, logical operations, and multiplication.
           - Designed a 32-register file with read and write capabilities following the RISC-V instruction set architecture.
