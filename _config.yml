@@ -89,6 +89,28 @@ content:
         description: | # this will include new lines to allow paragraphs
           Developed an AI-based game of Ataxx, a strategic board game for two players. The game is playable in both manual and automated modes, with AI players capable of making strategic decisions based on the current board state. Implemented command parsing and game state management, ensuring legal moves and enforcing game rules. Enhanced the game by introducing symmetrically placed blockades that impact gameplay. Optimized AI to find a forced win within five moves, making decisions within a 10-second timeframe.
 
+      - layout: top-middle
+        title: Computer Processor Design Project (CS-61B)
+        link: https://github.com/arthurutnehmer/cs-61c-cpu
+        # link_text: Project Website
+        additional_links:
+          - title:  https://github.com/arthurutnehmer/cs-61c-cpu
+            icon: fab fa-github
+            url: https://github.com/arthurutnehmer/cs-61c-cpu
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        description: | # this will include new lines to allow paragraphs
+          Computer Processor Design Project
+  
+          - Developed a basic CPU architecture in Logisim, capable of executing RISC-V instructions.
+          - Implemented an Arithmetic Logic Unit (ALU) for performing multiple operations, including addition, shift, comparison, logical operations, and multiplication.
+          - Designed a 32-register file with read and write capabilities following the RISC-V instruction set architecture.
+          - Implemented an immediate generator for reconstructing immediates from instructions.
+          - Constructed a single-cycle datapath for executing the addi instruction.
+          - Validated the design using an automated Python test suite to compare the outputs with reference outputs.
+          - Debugged and refined the design, utilizing Logisim tools to step through circuits and inspect the behavior of each component.
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
