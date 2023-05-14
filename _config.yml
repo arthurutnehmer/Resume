@@ -100,9 +100,9 @@ content:
           Skills: Problem Solving · Pattern Recognition · Abstraction · Teamwork
         content:
       - layout: left
-        title: University of California, Berkeley
-        caption: 2021 - 2024
-        sub_title: Math Major + CS Minor
+        title: MiraCosta College
+        caption: 2017 - 2020
+        sub_title: Associate of Arts and Sciences - AAS, Physics / Computer Science
         description: | # this will include new lines to allow paragraphs
           Skills: Problem Solving · Pattern Recognition · Abstraction · Teamwork
 
