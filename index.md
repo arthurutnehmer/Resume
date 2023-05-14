@@ -1,5 +1,9 @@
-# Welcome to Arthur Utnehmer's resume
-### Objective: Obtain a job within the tech industry.
+### Arthur Utnehmer
+### El Cerrito, CA | arthurutnehmer@berkeley.edu | 760-681-9961 | LinkedIn | GitHub
+
+### Objective: 
+### Passionate and skilled Computer Science student seeking a summer internship in software development. Offering a strong foundation in problem-solving, abstraction, and programming languages like JavaScript, Java, C++, Swift, and Python. Looking to apply my skills and learn new ones in a practical, professional setting.
+
 ![GitHub Logo](https://media.licdn.com/dms/image/C5603AQFDDlsLgVkqJQ/profile-displayphoto-shrink_200_200/0?e=1542240000&v=beta&t=RynAYRTfHFktw_jcayMX5OvePcrtytBAE7AwsWbtgfI)
 
 ## Education:
