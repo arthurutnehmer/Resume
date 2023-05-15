@@ -114,7 +114,7 @@ content:
     content:
       - layout: left
         title: Globe Computers US
-        link: globecomputers.ml
+        link: https://www.ebay.com/usr/globecomputersus
         # link_text: boringcompany.com
         sub_title: Founder
         caption: November 2014 - Present
