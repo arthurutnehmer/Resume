@@ -119,7 +119,14 @@ content:
         sub_title: Founder
         caption: November 2014 - Present
         description: | # this will include new lines to allow paragraphs
-            Repaired computers and sold solar equipment.
+          - Led a successful e-commerce business on eBay specializing in the acquisition, refurbishment, and reselling of vintage Apple Macintosh computers and a diverse range of products including auto parts and solar equipment.
+          - Leveraged technical expertise in diagnosing hardware and software issues to restore and upgrade vintage Apple Macintosh computers, involving motherboard repair, power supply rebuilds, and operating system installation.
+          - Conducted detailed electronic repairs using advanced soldering techniques and managed inventory for an extensive range of repair parts, ensuring smooth operations.
+          - Tailored product offerings to individual client needs by installing specific applications and custom ROMs, thereby increasing customer satisfaction and repeat business.
+          - Expanded business portfolio to include auto parts, leveraging freelance mechanic skills, and solar equipment, capitalizing on an understanding of renewable energy solutions.
+          - Demonstrated aptitude for complex problem-solving, technical proficiency, and customer service in a fast-paced, entrepreneurial environment.
+
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
