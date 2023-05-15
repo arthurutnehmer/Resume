@@ -94,9 +94,9 @@ content:
         link: https://github.com/arthurutnehmer/cs-61c-cpu
         # link_text: Project Website
         additional_links:
-          - title:  https://github.com/arthurutnehmer/cs-61c-cpu
+          - title:  https://github.com/arthurutnehmer/cs-61c-cpu/tree/master/Project%203:%20CS61CPU
             icon: fab fa-github
-            url: https://github.com/arthurutnehmer/cs-61c-cpu
+            url: https://github.com/arthurutnehmer/cs-61c-cpu/tree/master/Project%203:%20CS61CPU
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
