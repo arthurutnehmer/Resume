@@ -123,6 +123,14 @@ content:
           - Tailored product offerings to individual client needs by installing specific applications and custom ROMs, thereby increasing customer satisfaction and repeat business.
           - Demonstrated aptitude for complex problem-solving, technical proficiency, and customer service in a fast-paced, entrepreneurial environment.
 
+        content:
+      - layout: left
+        title: Globe Computers US
+        link: globecomputers.ml
+        # link_text: boringcompany.com
+        sub_title: Founder
+        caption: November 2014 - Present
+        description: | # this will include new lines to allow paragraphs
 
 
   - title: Education # Title for the section
@@ -134,7 +142,7 @@ content:
         sub_title: Math Major + CS Minor
         description: | # this will include new lines to allow paragraphs
           Skills: Problem Solving · Pattern Recognition · Abstraction · Teamwork
-        content:
+
       - layout: left
         title: MiraCosta College
         caption: 2017 - 2020
