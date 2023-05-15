@@ -90,7 +90,7 @@ content:
           Developed an AI-based game of Ataxx, a strategic board game for two players. The game is playable in both manual and automated modes, with AI players capable of making strategic decisions based on the current board state. Implemented command parsing and game state management, ensuring legal moves and enforcing game rules. Enhanced the game by introducing symmetrically placed blockades that impact gameplay. Optimized AI to find a forced win within five moves, making decisions within a 10-second timeframe.
 
       - layout: top-middle
-        title: Computer Processor Design Project (CS-61B)
+        title: Computer Processor Design Project (CS-61C)
         link: https://github.com/arthurutnehmer/cs-61c-cpu
         # link_text: Project Website
         additional_links:
