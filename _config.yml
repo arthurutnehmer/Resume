@@ -144,7 +144,8 @@ content:
         caption: 2021 - 2024
         sub_title: Math Major + CS Minor
         description: | # this will include new lines to allow paragraphs
-          Skills: Problem Solving · Pattern Recognition · Abstraction · Teamwork
+          - Took CS-61A, CS-61B, CS-61C as well as CS-170 (efficient algorithms)
+          - Additionally took CS-160 (user interface and design).
 
       - layout: left
         title: MiraCosta College
