@@ -50,6 +50,7 @@ about_content: | # this will include new lines to allow paragraphs
   Passionate and skilled Computer Science student seeking a summer internship in software development. Offering a strong foundation in problem-solving, abstraction, and programming languages like JavaScript, Java, C++, Swift, and Python. Looking to apply my skills and learn new ones in a practical, professional setting.
 
 
+content:
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -69,10 +70,9 @@ about_content: | # this will include new lines to allow paragraphs
         sub_title: Associate of Arts and Sciences - Physics / Computer Science
         description: | # this will include new lines to allow paragraphs
           Skills: Programming · Time management · Abstraction · Teamwork
-          - Notably took courses in object oriented programming and data structures. 
+          - Notably took courses in object oriented programming and data structures.   
+    
 
-
-content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
