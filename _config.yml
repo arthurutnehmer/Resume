@@ -14,14 +14,14 @@ resume_name:                    "Arthur J. Utnehmer"
 resume_title:                   "Math & CS @ University of California, Berkeley"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "arthurutnehmer@berkeley.edu"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       "760-681-9961"
+resume_contact_address:         "5680 Jordan Ave, El Cerrito"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
-display_header_contact_info:    "false"
+resume_header_contact_info:     "5680 Jordan Ave, El Cerrito • 760-681-9961 • arthurutnehmer@berkeley.edu"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Passionate and skilled Computer Science student seeking a summer internship in software development. Offering a strong foundation in problem-solving, abstraction, and programming languages like JavaScript, Java, C++, Swift, and Python. Looking to apply my skills and learn new ones in a practical, professional setting.</p>"
 
