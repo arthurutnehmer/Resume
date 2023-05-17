@@ -135,6 +135,19 @@ content:
           - Assisted clients in enhancing garden aesthetics through the addition of new plants, involving careful selection and strategic placement for optimal visual appeal.
           - Installed irrigation systems and administered plant nutrients to promote garden health, displaying technical knowledge in landscaping and plant biology.
 
+      - layout: left
+        title: Assistant
+        link: N/A
+        # link_text: boringcompany.com
+        sub_title: A & A brothers mobile home cleaning
+        caption: June 2015 - Jul 2020
+        description: | # this will include new lines to allow paragraphs
+          - Assisted in the successful completion of cleaning projects by performing thorough inspections, ensuring high-quality work and customer satisfaction.
+          - Demonstrated strong attention to detail by meticulously cleaning window screens and windows, contributing to the company's reputation for excellence.
+          - Managed equipment maintenance and organization, showcasing initiative and responsibility by ensuring tools were ready for use and properly stored after each job.
+          - Collaborated effectively with a team to complete tasks efficiently and on time, illustrating strong teamwork and communication skills.
+          - Utilized problem-solving abilities to address and overcome unexpected issues during jobs, ensuring minimal disruption to work progress and customer service.
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
