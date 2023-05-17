@@ -1,10 +1,11 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Math Major + CS minor
+  uni: University of California, Berkeley
+  year: 2021 &mdash; 2024
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: Took CS-61A, CS-61B, CS-61C, and CS-70 as well as CS-170 (efficient algorithms)
+    - award: Additionally took CS-160 (user interface and design).
+  summary: Problem Solving · Pattern Recognition · Mathematical thinking · Teamwork
 
 - degree: High School Diploma
   uni: Springfield High School
