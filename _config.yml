@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Arthur J. Utnehmer"
-resume_title:                   "Math & CS student at University of California, Berkeley"
+resume_title:                   "Math & CS @ University of California, Berkeley"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "lisasimpson@youremailaddress.com"
