@@ -50,6 +50,28 @@ about_content: | # this will include new lines to allow paragraphs
   Passionate and skilled Computer Science student seeking a summer internship in software development. Offering a strong foundation in problem-solving, abstraction, and programming languages like JavaScript, Java, C++, Swift, and Python. Looking to apply my skills and learn new ones in a practical, professional setting.
 
 
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: University of California, Berkeley
+        caption: 2021 - 2024
+        sub_title: Math Major + CS Minor
+        description: | # this will include new lines to allow paragraphs
+          Skills: Problem Solving · Pattern Recognition · Mathematical thinking · Teamwork
+          - Took CS-61A, CS-61B, CS-61C as well as CS-170 (efficient algorithms)
+          - Additionally took CS-160 (user interface and design).
+
+      - layout: left
+        title: MiraCosta College
+        caption: 2017 - 2020
+        sub_title: Associate of Arts and Sciences - Physics / Computer Science
+        description: | # this will include new lines to allow paragraphs
+          Skills: Programming · Time management · Abstraction · Teamwork
+          - Notably took courses in object oriented programming and data structures. 
+
+
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -149,25 +171,7 @@ content:
           - Utilized problem-solving abilities to address and overcome unexpected issues during jobs, ensuring minimal disruption to work progress and customer service.
 
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: University of California, Berkeley
-        caption: 2021 - 2024
-        sub_title: Math Major + CS Minor
-        description: | # this will include new lines to allow paragraphs
-          Skills: Problem Solving · Pattern Recognition · Mathematical thinking · Teamwork
-          - Took CS-61A, CS-61B, CS-61C as well as CS-170 (efficient algorithms)
-          - Additionally took CS-160 (user interface and design).
-
-      - layout: left
-        title: MiraCosta College
-        caption: 2017 - 2020
-        sub_title: Associate of Arts and Sciences - Physics / Computer Science
-        description: | # this will include new lines to allow paragraphs
-          Skills: Programming · Time management · Abstraction · Teamwork
-          - Notably took courses in object oriented programming and data structures. 
+  
 
 
 # Footer
