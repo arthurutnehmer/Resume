@@ -1,189 +1,63 @@
-# Site
-repository: sproogen/resume-theme
-favicon: images/favicon.ico
-
-# Content configuration version
-version: 2
-
-# Personal info
-name: Arthur Utnehmer
-title: Math and Computer Science Student at U.C. Berkeley
-email: arthurutnehmer@berkeley.edu
-website: https://arthurutnehmer.github.io/Resume/
-
-# Dark Mode (true/false/never)
-darkmode: true
-
-# Social links
-github_username:  arthurutnehmer
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jameswgrant
-linkedin_username: arthur-utnehmer-75ab1154
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
-
-# Additional icon links
-additional_links:
-- title: My website
-  icon: fas fa-globe
-  url: https://arthurutnehmer.github.io/Resume/
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
-
-# About Section
-# about_title: About Me
-about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Passionate and skilled Computer Science student seeking a summer internship in software development. Offering a strong foundation in problem-solving, abstraction, and programming languages like JavaScript, Java, C++, Swift, and Python. Looking to apply my skills and learn new ones in a practical, professional setting.
-
-
-content:
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: University of California, Berkeley
-        caption: 2021 - 2024
-        sub_title: Math Major + CS Minor
-        description: | # this will include new lines to allow paragraphs
-          Skills: Problem Solving · Pattern Recognition · Mathematical thinking · Teamwork
-          - Took CS-61A, CS-61B, CS-61C as well as CS-170 (efficient algorithms)
-          - Additionally took CS-160 (user interface and design).
-
-      - layout: left
-        title: MiraCosta College
-        caption: 2017 - 2020
-        sub_title: Associate of Arts and Sciences - Physics / Computer Science
-        description: | # this will include new lines to allow paragraphs
-          Skills: Programming · Time management · Abstraction · Teamwork
-          - Notably took courses in object oriented programming and data structures.   
-    
-
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Enigma (CS-61B)
-        link: https://github.com/arthurutnehmer/cs61b-enigma
-        # link_text: Project Website
-        additional_links:
-          - title:  https://github.com/arthurutnehmer/cs61b-enigma
-            icon: fab fa-github
-            url: https://github.com/arthurutnehmer/cs61b-enigma
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        description: | # this will include new lines to allow paragraphs
-          Developed an Enigma Machine Simulator as a programming assignment. The program mimics the operations of the historical Enigma machines used by Germany during World War II for encoding and decoding messages. It includes:
-          - Object-based design implementing several key data structures.
-          - Ability to simulate different initial configurations of the machine and messages to encode or decode, providing an understanding of encryption and decryption processes.
-          - Integration of interchangeable rotors and reflectors simulating various permutations of signals.
-          - Emulation of progressive substitution mechanism, making each subsequent letter of the message encrypted differently.
-          - Implementation of machine's rotor rotation mechanism, thus changing the permutation after every letter encryption.
-          - Utilization of the plugboard feature, allowing additional level of complexity in encoding and decoding messages.
-          - Inclusion of an automated style check and unit tests to ensure code quality and functionality.
-
-      - layout: top-middle
-        title: Ataxx (CS-61B)
-        link: https://github.com/arthurutnehmer/cs61b-ataxx
-        # link_text: Project Website
-        additional_links:
-          - title:  https://github.com/arthurutnehmer/cs61b-ataxx
-            icon: fab fa-github
-            url: https://github.com/arthurutnehmer/cs61b-ataxx
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        description: | # this will include new lines to allow paragraphs
-          Developed an AI-based game of Ataxx, a strategic board game for two players. The game is playable in both manual and automated modes, with AI players capable of making strategic decisions based on the current board state. Implemented command parsing and game state management, ensuring legal moves and enforcing game rules. Enhanced the game by introducing symmetrically placed blockades that impact gameplay. Optimized AI to find a forced win within five moves, making decisions within a 10-second timeframe.
-
-      - layout: top-middle
-        title: Computer Processor Design Project (CS-61C)
-        link: https://github.com/arthurutnehmer/cs-61c-cpu
-        # link_text: Project Website
-        additional_links:
-          - title:  https://github.com/arthurutnehmer/cs-61c-cpu/tree/master/Project%203:%20CS61CPU
-            icon: fab fa-github
-            url: https://github.com/arthurutnehmer/cs-61c-cpu/tree/master/Project%203:%20CS61CPU
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        description: | # this will include new lines to allow paragraphs
-          - Developed a basic CPU architecture in Logisim, capable of executing RISC-V instructions.
-          - Implemented an Arithmetic Logic Unit (ALU) for performing multiple operations, including addition, shift, comparison, logical operations, and multiplication.
-          - Designed a 32-register file with read and write capabilities following the RISC-V instruction set architecture.
-          - Implemented an immediate generator for reconstructing immediates from instructions.
-          - Constructed a single-cycle datapath for executing the addi instruction.
-          - Validated the design using an automated Python test suite to compare the outputs with reference outputs.
-          - Debugged and refined the design, utilizing Logisim tools to step through circuits and inspect the behavior of each component.
-
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Globe Computers US
-        link: https://www.ebay.com/usr/globecomputersus
-        # link_text: boringcompany.com
-        sub_title: Founder
-        caption: November 2014 - Jul 2020
-        description: | # this will include new lines to allow paragraphs
-          - Led a successful e-commerce business on eBay specializing in the acquisition, refurbishment, and reselling of vintage Apple Macintosh computers and a diverse range of products including auto parts and solar equipment.
-          - Tailored product offerings to individual client needs by installing specific applications and custom ROMs, thereby increasing customer satisfaction and repeat business.
-          - Demonstrated aptitude for complex problem-solving, technical proficiency, and customer service in a fast-paced, entrepreneurial environment.
-
-      - layout: left
-        title: Freelance Gardener
-        link: N/A
-        # link_text: boringcompany.com
-        sub_title: Self-Employed
-        caption: June 2015 - Jul 2020
-        description: | # this will include new lines to allow paragraphs
-          - Provided professional gardening services, showcasing excellent client consultation and service delivery.
-          - Performed routine garden maintenance tasks, such as plant trimming and tree removal, demonstrating physical dexterity and knowledge of plant care.
-          - Assisted clients in enhancing garden aesthetics through the addition of new plants, involving careful selection and strategic placement for optimal visual appeal.
-          - Installed irrigation systems and administered plant nutrients to promote garden health, displaying technical knowledge in landscaping and plant biology.
-
-      - layout: left
-        title: A & A brothers mobile home cleaning
-        link: N/A
-        # link_text: boringcompany.com
-        sub_title: Assistant
-        caption: June 2015 - Jul 2020
-        description: | # this will include new lines to allow paragraphs
-          - Assisted in the successful completion of cleaning projects by performing thorough inspections, ensuring high-quality work and customer satisfaction.
-          - Demonstrated strong attention to detail by meticulously cleaning window screens and windows, contributing to the company's reputation for excellence.
-          - Managed equipment maintenance and organization, showcasing initiative and responsibility by ensuring tools were ready for use and properly stored after each job.
-          - Collaborated effectively with a team to complete tasks efficiently and on time, illustrating strong teamwork and communication skills.
-          - Utilized problem-solving abilities to address and overcome unexpected issues during jobs, ensuring minimal disruption to work progress and customer service.
-
-
-  
-
-
-# Footer
-footer_show_references: true
-# references_title: References on request (Override references text)
+# Site settings
+title: "Jekyll Resume Template"
+description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
-remote_theme: sproogen/resume-theme
-
+markdown: kramdown
 sass:
   sass_dir: _sass
   style: compressed
 
-plugins:
- - jekyll-seo-tag
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "Lisa M. Simpson"
+resume_title:                   "VP of Global Communications"
+
+# used for the contact button in _layouts/resume.html
+resume_contact_email:           "lisasimpson@youremailaddress.com"
+
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_telephone:       "555-7334"
+resume_contact_address:         "742 Evergreen Terrace, Springfield"
+
+resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+display_header_contact_info:    "false"
+
+resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+resume_looking_for_work:        "yes"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_education:       true
+resume_section_projects:        true
+resume_section_skills:          true
+resume_section_recognition:     true
+resume_section_links:           true
+resume_section_associations:    true
+# resume_section_interests:       true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            "https://github.com/jglovier/resume-template"
+  resume_twitter_url:           "http://twitter.com/jglovier"
+  resume_dribbble_url:          "https://dribbble.com/jag"
+  # resume_facebook_url:          "insert Facebook URL here"
+  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  # resume_instagram_url:         "insert your Instagram URL here"
+  resume_website_url:           "http://joelglovier.com"
+  resume_medium_url:            "https://medium.com/@jglovier"
+resume_print_social_links:      true
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts
