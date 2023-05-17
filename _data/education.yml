@@ -3,12 +3,14 @@
   uni: University of California, Berkeley
   year: 2021 &mdash; 2024
   awards:
-    - award: Took CS-61A, CS-61B, CS-61C, and CS-70 as well as CS-170 (efficient algorithms)
-    - award: Additionally took CS-160 (user interface and design).
-  summary: Problem Solving · Pattern Recognition · Mathematical thinking · Teamwork
+    - award: Problem Solving · Pattern Recognition · Mathematical thinking · Teamwork
+  summary:
+           - Took CS-61A, CS-61B, CS-61C, and CS-70 as well as CS-170 (efficient algorithms)
+           - Additionally took CS-160 (user interface and design).
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Associate of Arts and Sciences - Mathematics
+  uni: MiraCosta College
+  year: 2017 &mdash; 2020
+  awards:
+    - award: Programming · Time management · Abstraction · Teamwork
+  summary: Notably took courses in object oriented programming and data structures.
