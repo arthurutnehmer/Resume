@@ -13,7 +13,7 @@
 - project: Ataxx
   role: CS-61B
   duration: Jan 2022 &mdash; May 2022
-  # url: "#"
+  url: https://github.com/arthurutnehmer/cs61b-ataxx
   description: <ul class="resume-item-list">
     <li>Led a successful e-commerce business on eBay specializing in the acquisition, refurbishment, and reselling of vintage Apple Macintosh computers and a diverse range of products including auto parts and solar equipment.</li>
     <li>Tailored product offerings to individual client needs by installing specific applications and custom ROMs, thereby increasing customer satisfaction and repeat business.</li>
