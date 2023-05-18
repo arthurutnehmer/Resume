@@ -14,8 +14,11 @@
 
 
 # Communications strategy
-- skill: Mathematical thinking
-  description: Content and marketing strategy,
+- skill: Operating Systems
+  description: <ul class="resume-item-list">
+    <li>Ubuntu </li>
+    <li>Windows</li>
+    <li>mac OS</li></ul>
 
 # Digital content development and creation
 - skill: Teamwork
