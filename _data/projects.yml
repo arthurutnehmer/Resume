@@ -2,11 +2,11 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Enigma
+  role: CS-61B
+  duration: Jan 2022 &mdash; May 2022
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: "Developed an Enigma Machine Simulator as a programming assignment. The program mimics the operations of the historical Enigma machines used by Germany during World War II for encoding and decoding messages. It includes:"
 
 # Springfield Community Outreach Group
 - project: Springfield Community Outreach Group
