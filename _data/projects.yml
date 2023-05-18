@@ -18,3 +18,14 @@
   duration: Jan 2022 &mdash; May 2022
   url: https://github.com/arthurutnehmer/cs61b-ataxx
   description:  Developed an AI-based game of Ataxx, a strategic board game for two players. The game is playable in both manual and automated modes, with AI players capable of making strategic decisions based on the current board state. Implemented command parsing and game state management, ensuring legal moves and enforcing game rules. Enhanced the game by introducing symmetrically placed blockades that impact gameplay. Optimized AI to find a forced win within five moves, making decisions within a 10-second timeframe.
+
+
+# Enigma
+- project: Computer Processor Design Project
+  role: CS-61C
+  duration: October 2021 &mdash; Dec 2021
+  url: https://github.com/arthurutnehmer/cs-61c-cpu/tree/master/Project%203:%20CS61CPU
+  description: Developed a basic CPU architecture in Logisim, capable of executing RISC-V instructions. <ul class="resume-item-list">
+    <liImplemented an Arithmetic Logic Unit (ALU) for performing multiple operations, including addition, shift, comparison, logical operations, and multiplication.</li>
+    <li>Designed a 32-register file with read and write capabilities following the RISC-V instruction set architecture.</li>
+    <li>Debugged and refined the design, utilizing Logisim tools to step through circuits and inspect the behavior of each component.</li></ul>
