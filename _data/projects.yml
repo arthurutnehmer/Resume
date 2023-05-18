@@ -17,7 +17,4 @@
   role: CS-61B
   duration: Jan 2022 &mdash; May 2022
   url: https://github.com/arthurutnehmer/cs61b-ataxx
-  description: <ul class="resume-item-list">
-    <li>Led a successful e-commerce business on eBay specializing in the acquisition, refurbishment, and reselling of vintage Apple Macintosh computers and a diverse range of products including auto parts and solar equipment.</li>
-    <li>Tailored product offerings to individual client needs by installing specific applications and custom ROMs, thereby increasing customer satisfaction and repeat business.</li>
-    <li>Demonstrated aptitude for complex problem-solving, technical proficiency, and customer service in a fast-paced, entrepreneurial environment.</li></ul>
+  description:  Developed an AI-based game of Ataxx, a strategic board game for two players. The game is playable in both manual and automated modes, with AI players capable of making strategic decisions based on the current board state. Implemented command parsing and game state management, ensuring legal moves and enforcing game rules. Enhanced the game by introducing symmetrically placed blockades that impact gameplay. Optimized AI to find a forced win within five moves, making decisions within a 10-second timeframe.
