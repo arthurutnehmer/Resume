@@ -1,7 +1,11 @@
 # Skills
 # Organizational leadership
-- skill: Problem Solving
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Languages
+  description: <ul class="resume-item-list">
+    <li>C++</li>
+    <li>C</li>
+    <li>Java</li></ul>
+
 
 # Communications strategy
 - skill: Mathematical thinking
