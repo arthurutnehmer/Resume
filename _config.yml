@@ -23,7 +23,7 @@ resume_contact_address:         "5680 Jordan Ave, El Cerrito"
 resume_header_contact_info:     "5680 Jordan Ave, El Cerrito • 760-681-9961 • arthurutnehmer@berkeley.edu"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Passionate and skilled Computer Science student seeking a summer internship in software development. Offering a strong foundation in problem-solving, abstraction, and programming languages like JavaScript, Java, C++, Swift, and Python. Looking to apply my skills and learn new ones in a practical, professional setting.</p>"
+resume_header_intro: "<p>Passionate and skilled Computer Science student seeking a summer internship in software development. Offering a strong foundation in problem-solving, abstraction, and programming languages like C++, Java, Python, Javascript, and HTML. Looking to apply my skills and learn new ones in a practical, professional setting.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
